@@ -34,4 +34,3 @@ def scrap_data(link):
         hyperlinks = i.get('href')
     # Add many more tags for the data you need
     return title.string
-#scrap_data('https://en.
